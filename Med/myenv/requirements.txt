@@ -1,0 +1,15 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo_search
+fastapi
+uvicorn
+groq
+wikipedia
+co
+Flask
+flask_cors
+pypdf
+python-docx
+reportlab

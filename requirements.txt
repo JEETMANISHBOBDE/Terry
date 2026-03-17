@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+pydantic
+groq
+
+langchain-core
+langchain-classic
+langchain-community
+
+pypdf
+faiss-cpu
+sentence-transformers
+
+python-docx
+reportlab
